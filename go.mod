@@ -5,7 +5,7 @@ go 1.22.3
 require (
 	github.com/MakeNowJust/heredoc v1.0.0
 	github.com/docker/cli v27.3.1+incompatible
-	github.com/docker/docker v27.3.1+incompatible
+	github.com/docker/docker v28.0.0+incompatible
 	github.com/goware/prefixer v0.0.0-20160118172347-395022866408
 	github.com/hexops/gotextdiff v1.0.3
 	github.com/moby/moby v27.3.1+incompatible
